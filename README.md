@@ -35,3 +35,14 @@ The example writes results to `results.jsonl`.
 {"timestamp": "2026-08-23T11:34:20", "description": "test_one", "success": true, "duration_seconds": 2e-06}
 {"timestamp": "2026-08-23T11:34:20", "description": "test_two", "success": true, "duration_seconds": 1e-06}
 ```
+
+## Legal
+
+Copyright © 2026 Ashley Morris. All rights reserved.
+
+This repository is provided as a portfolio and historical code sample.
+No license is granted for commercial use, redistribution, or derivative works.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
